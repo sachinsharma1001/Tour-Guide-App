@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">Tour Guide App</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="redfort">Red Fort</string>
+    <string name="redfort_detail">Located near Pragati Maidan</string>
+    <string name="safdarjungtomb">Safdarjung Tomb</string>
+    <string name="safdarjungtomb_detail">Located near Jor Bagh</string>
+    <string name="hauzkhas">Hauz Khas</string>
+    <string name="hauzkhas_detail">Located near Green Park</string>
+    <string name="puranaquila">Purana Quila</string>
+    <string name="puranaquila_detail">Located near Pragati Maidan</string>
+    <string name="firozshahkotlafort">Firoz Shah Kotla Fort</string>
+    <string name="firozshahkotlafort_detail">Located Near ITO</string>
+    <string name="indiagate">India Gate</string>
+    <string name="indiagate_detail">Located Near Pragati Maidan</string>
+    <string name="qutabminar">Qutab Minar</string>
+    <string name="qutabminar_detail">Located Near Qutab Minar Metro Station</string>
+    <string name="humayuntomb">Humayun Tomb</string>
+    <string name="humayuntomb_detail">Located near Pragati Maidan</string>
+    <string name="tuglakabadfort">Tuglakabad Fort</string>
+    <string name="tuglokabadfort_detail">Located near Bahardurgarh</string>
+
+    <string name="chandnichowk">Chandni Chowk</string>
+    <string name="chandni_detail">Located Near Purani Delhi Railway Station</string>
+    <string name="tradefair">Trade Fair</string>
+    <string name="tradefair_detail">Located Near Pragati Maidan</string>
+    <string name="delhihaat">Delhi Haat</string>
+    <string name="delhihaat_detail">Located Near Netaji Subhash Palace Metro Station</string>
+    <string name="delhihaat2">Delhi Haat</string>
+    <string name="delhihaat2_detail">Located Near Janakpuri Metro Station</string>
+    <string name="delhihaat3">Delhi Haat</string>
+    <string name="delhihaat3_detail">Located Near Okhla</string>
+    <string name="palika">Palika Bazaar</string>
+    <string name="palika_detail">Located Near Rajiv Chowk Metro Station</string>
+    <string name="karolbagh">Karol Bagh</string>
+    <string name="karolbagh_detail">Located Near Karol Bagh Metro Station</string>
+
+    <string name="zoo">Zoo</string>
+    <string name="zoo_detail">Located near Pragati Maidan</string>
+    <string name="centralpark">Central Park</string>
+    <string name="centralpark_detail">Located Near Rajiv Chowk Metro Station</string>
+    <string name="bird">Bird Sanctuary</string>
+    <string name="bird_detail">Located Near Okhla</string>
+    <string name="bangla">Bangla Sahib</string>
+    <string name="bangla_detail">Located Near Pragati Maidan</string>
+    <string name="aksardham">Aksahardham</string>
+    <string name="aksardham_detail">Located Near Ganesh Nagar</string>
+    <string name="lotus">Lotus Temple</string>
+    <string name="lotus_detail">Located Near Saket</string>
+    <string name="cmandir">Chattarpur Mandir</string>
+    <string name="cmandir_detail">Located Near Chattarpur</string>
+    <string name="garden">Garden of Five Senses</string>
+    <string name="garden_detail">Located Near Saket</string>
+
+    <string name="moti">Moti Mahal Deluxe</string>
+    <string name="moti_detail">Located Near Karkardooma</string>
+    <string name="chill">Chill Ice</string>
+    <string name="chill_detail">Located Near Karkardooma Metro Station</string>
+    <string name="kaventers">Kaventers</string>
+    <string name="kaventers_detail">Located Near Rajiv Chowk Metro Station</string>
+    <string name="cage">Cage Cafe</string>
+    <string name="cage_detail">Located Near Krishna Nagar</string>
+</resources>
